@@ -1,2 +1,2 @@
 # number-bars
-Script to add the index of each bar to the chart.
+MQL4 Script for MetaTrader4 Trading Platform to label bar indexes on the chart. It is meant to be a very helpful tool for MQL4 programmers to debug their EAs and scripts.
